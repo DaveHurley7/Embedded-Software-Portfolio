@@ -1,4 +1,4 @@
 [submodule "Learning/STM/sdks/STM32CubeF4"]
 	path = Learning/STM/sdks/STM32CubeF4
 	url = https://github.com/stmicroelectronics/stm32cubef4
-	branch = master
+	branch = main

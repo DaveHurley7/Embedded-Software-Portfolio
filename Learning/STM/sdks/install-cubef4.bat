@@ -1,0 +1,1 @@
+git -C "../../../" submodule update --init --recursive
